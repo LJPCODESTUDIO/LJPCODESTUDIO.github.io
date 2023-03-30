@@ -1,6 +1,6 @@
 body {
-    /*background-color: lightblue;*/
-    background-image: url('/static/rickroll-rick.gif');
+    background-color: lightblue;
+    /*background-image: url('/static/rickroll-rick.gif');*/
     font-family: Helvetica;
 }
 h1 {
