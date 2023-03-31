@@ -11,12 +11,17 @@ h1 {
     color: rgb(224, 224, 224);
     text-shadow: -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000, 3px 3px 0 #000;
 }
-pre {
-    white-space: pre-wrap;
+h2 {
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 300%;
+    font-weight: bold;
+    color: rgb(224, 224, 224);
+    text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+}
+ul {
     font-size: larger;
-    padding: 35px;
-    line-height: 1.8;
-
+    margin-left: 100px;
 }
 .text {
     background-color: rgb(224, 224, 224);
